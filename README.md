@@ -1,6 +1,6 @@
 ### Hi there, I'm Souradeep - aka [codeSTACKr][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a CS freshman at the University of Waterloo!
 - 🔭 I’m currently working on a [VS Code Course][website]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
