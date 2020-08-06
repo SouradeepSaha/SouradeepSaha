@@ -1,11 +1,13 @@
 ### Hi there, I'm Souradeep - aka [codeSTACKr][website] 👋
 
 ## I'm a CS freshman at the University of Waterloo!
-- 🔭 I’m currently working on a [VS Code Course][website]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I’m currently working on a [Machine Learning algorithm][website]!
+- 🌱 I’m currently learning React, Angular and Typescript
+- 🏢 I'm open for fall 2021 internship opportunities
+- 👯 I’m looking to collaborate with other students to create cool side projects
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+- ⚡ Fun fact: I love to draw and play soccer
+
 
 ### Connect with me:
 
