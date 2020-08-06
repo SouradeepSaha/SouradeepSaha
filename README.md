@@ -1,4 +1,4 @@
-### Hi there, I'm Souradeep - aka [codeSTACKr][website] 👋
+### Hi there, I'm Souradeep 👋
 
 ## I'm a CS freshman at the University of Waterloo!
 - 🔭 I’m currently working on a [Machine Learning algorithm][website]!
