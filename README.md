@@ -35,7 +35,7 @@
 
 <br/><br/>
 <details>
-  <summary>Hackathons I've attended</Summary>
+  <summary>🤖 Hackathons I've attended</Summary>
   
 | Hackathon        | Role and Location | Notes                                              | Achievement                         | Github   |
 |------------------|-------------------|----------------------------------------------------|-------------------------------------|----------|
