@@ -1,20 +1,20 @@
-### Hi there, I'm Souradeep 👋
+### Hello 👋  I'm Souradeep 
 
-## I'm a CS freshman at the University of Waterloo!
-- 🔭 I’m currently working on a [Machine Learning algorithm][website]!
-- 🌱 I’m currently learning React, Angular and Typescript
-- 🏢 I'm open for fall 2021 internship opportunities
-- 👯 I’m looking to collaborate with other students to create cool side projects
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play soccer
+## I'm currently studying Computer Science at the University of Waterloo!
+- 🎤 If you're wondering how to pronounce my name, its "sir-deep"
+- 🔭 I’m currently obsessed with Neural Networks
+- 🏢 Looking for fall 2021 internship opportunities
+- 🥅 2020 Goals: Start contributing to Open Source projects
+- 🔗 You can check out my personal wesbite [here][website]
+- 🇫🇷 Fun fact: I'm learning French so any tips welcome!
 
-
-### Connect with me:
+## Connect with me:
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][Linkedin]
 [<img alt="MEDIUM" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>][Medium]
 [<img alt="DEV.TO" src="https://img.shields.io/badge/DEV%20-%23000000.svg?&style=for-the-badge&logo=DEV.TO&logoColor=white"/>][Dev]
 [<img alt="STACKOVERFLOW" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>][StackOverflow]
+[<img alt="HACKERRANK" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>][hackerrank]
 
 <br />
 
@@ -68,6 +68,8 @@
 [stackoverflow]: https://stackoverflow.com/users/5793816/souradeep-saha
 [dev]: https://dev.to/souradeepsaha
 [medium]: https://medium.com/@sahasouradeep01
+[hackerrank]: https://www.hackerrank.com/sahasouradeep01
+[leetcode]: https://leetcode.com/souradeepsaha/
 
 [InfoBase]: https://github.com/SouradeepSaha/infobase
 [Scribr]: https://github.com/SouradeepSaha/Scribr
