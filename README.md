@@ -39,7 +39,7 @@
 
 ---
 
-<img align="left" alt="Souradeep's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SouradeepSaha&show_icons=true&hide_border=true" />
+<img align="left" alt="Souradeep's Github Stats" src="github-readme-stats-khaki-sigma.vercel.app/api?username=SouradeepSaha&show_icons=true&hide_border=true" />
 
 [website]: https://souradeepsaha.me
 [twitter]: https://twitter.com/thesouradeep_s
