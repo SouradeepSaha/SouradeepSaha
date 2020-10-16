@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="4438256" data-share-method="host" data-width="100%" data-aspect-ratio="1.900763358778626"><a href="https://tenor.com/view/grandpa-computer-gif-4438256">Grandpa Uses A Computer GIF</a> from <a href="https://tenor.com/search/grandpa-gifs">Grandpa GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+![](joke.gif)
 
 # Hello 👋  I'm Souradeep 
 
