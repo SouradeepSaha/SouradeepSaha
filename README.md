@@ -1,3 +1,5 @@
+<div class="tenor-gif-embed" data-postid="4438256" data-share-method="host" data-width="100%" data-aspect-ratio="1.900763358778626"><a href="https://tenor.com/view/grandpa-computer-gif-4438256">Grandpa Uses A Computer GIF</a> from <a href="https://tenor.com/search/grandpa-gifs">Grandpa GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+
 # Hello 👋  I'm Souradeep 
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][Linkedin]
@@ -8,12 +10,12 @@
 
 
 ## I'm currently studying Computer Science at the University of Waterloo!
-- 🎤 If you're wondering how to pronounce my name, its "sir-deep"
-- 🔭 I’m currently obsessed with Neural Networks
-- 🏢 Looking for fall 2021 internship opportunities
-- 🥅 2020 Goals: Start contributing to Open Source projects
-- 🔗 You can check out my personal wesbite [here][website]
-- 🇫🇷 Fun fact: I'm learning French so any tips welcome!
+- 🎤  If you're wondering how to pronounce my name, its "sir-deep"
+- 🔭  I’m currently obsessed with Neural Networks
+- 🏢  Looking for fall 2021 internship opportunities
+- 🥅  2020 Goals: Start contributing to Open Source projects
+- 🔗  You can check out my personal wesbite [here][website]
+- 🇫🇷  Fun fact: I'm learning French so any tips welcome!
 
 <br />
 
