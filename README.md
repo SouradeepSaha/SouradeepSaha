@@ -38,8 +38,10 @@
 <br />
 
 ---
-
-<img align="left" alt="Souradeep's Github Stats" src="https://github-readme-stats.souradeepsaha.vercel.app/api?username=SouradeepSaha&show_icons=true&hide_border=true" />
+<details>
+  <summary>:zap: Github Stats </summary>
+  <img align="left" alt="Souradeep's Github Stats" src="https://github-readme-stats.souradeepsaha.vercel.app/api?username=SouradeepSaha&show_icons=true&hide_border=true" />
+</details>
 
 [website]: https://souradeepsaha.me
 [twitter]: https://twitter.com/thesouradeep_s
