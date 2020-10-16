@@ -70,7 +70,7 @@
 [leetcode]: https://leetcode.com/souradeepsaha/
 
 [email]:mailto://souradeep.saha@outlook.com
-[resume]:
+[resume]: https://github.com/SouradeepSaha
 
 [InfoBase]: https://github.com/SouradeepSaha/infobase
 [Scribr]: https://github.com/SouradeepSaha/Scribr
