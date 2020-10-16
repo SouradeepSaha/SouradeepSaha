@@ -1,4 +1,4 @@
-### Hello 👋  I'm Souradeep 
+# Hello 👋  I'm Souradeep 
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][Linkedin]
 [<img alt="MEDIUM" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>][Medium]
