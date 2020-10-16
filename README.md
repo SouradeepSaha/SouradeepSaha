@@ -11,10 +11,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][Linkedin]
+[<img align="left" alt="MEDIUM" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>][Medium]
+[<img align="left" alt="MEDIUM" src="https://img.shields.io/badge/DEV%20-%23000000.svg?&style=for-the-badge&logo=DEV.TO&logoColor=white"/>][Dev]
+[<img align="left" alt="MEDIUM" src=https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>][StackOverflow]
 
 <br />
 
@@ -42,8 +42,8 @@
   
 | Hackathon        | Role and Location | Notes                                              | Achievement                         | Github   |
 |------------------|-------------------|----------------------------------------------------|-------------------------------------|----------|
-| ByteHacks 2020   | Hacker, Online    | Created InfoBase \- missile attack predictor       | Third place winner                  | InfoBase |
-| GarudaHacks 2020 | Hacker, Online    | Built Scribr \- meeting transcriber and summarizer | Best pre\-university hack runner up | Scribr   |
+| ByteHacks 2020   | Hacker, Online    | Created InfoBase \- missile attack predictor       | Third place winner                  |[InfoBase]|
+| GarudaHacks 2020 | Hacker, Online    | Built Scribr \- meeting transcriber and summarizer | Best pre\-university hack runner up |[Scribr]  |
 </details>
 
 ---
@@ -58,7 +58,16 @@
   <img align="left" alt="Souradeep's Github Stats" src="https://github-readme-stats.souradeepsaha.vercel.app/api?username=SouradeepSaha&show_icons=true&hide_border=true" />
 </details>
 
+<!-- HyperLinks -->
 [website]: https://souradeepsaha.me
 [twitter]: https://twitter.com/thesouradeep_s
 [instagram]: https://www.instagram.com/souradeep_s/
+[facebook]: https://www.facebook.com/souradeepsaha01
+
 [linkedin]: https://www.linkedin.com/in/souradeep-saha/
+[stackoverflow]: https://stackoverflow.com/users/5793816/souradeep-saha
+[dev]: https://dev.to/souradeepsaha
+[medium]: https://medium.com/@sahasouradeep01
+
+[InfoBase]: https://github.com/SouradeepSaha/infobase
+[Scribr]: https://github.com/SouradeepSaha/Scribr
