@@ -15,6 +15,8 @@
 - 🏢  Looking for fall 2021 internship opportunities
 - 🥅  2020 Goals: Start contributing to Open Source projects
 - 🔗  You can check out my personal wesbite [here][website]
+- 📥  You can contact me at: [souradeep.saha@outlook.com][email]
+- 🗒️  Here's my [resume][resume]
 - 🇫🇷  Fun fact: I'm learning French so any tips welcome!
 
 ## Languages and Tools:
@@ -66,6 +68,7 @@
 [medium]: https://medium.com/@sahasouradeep01
 [hackerrank]: https://www.hackerrank.com/sahasouradeep01
 [leetcode]: https://leetcode.com/souradeepsaha/
+[email]:mailto://souradeep.saha@outlook.com
 
 [InfoBase]: https://github.com/SouradeepSaha/infobase
 [Scribr]: https://github.com/SouradeepSaha/Scribr
