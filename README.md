@@ -68,7 +68,9 @@
 [medium]: https://medium.com/@sahasouradeep01
 [hackerrank]: https://www.hackerrank.com/sahasouradeep01
 [leetcode]: https://leetcode.com/souradeepsaha/
+
 [email]:mailto://souradeep.saha@outlook.com
+[resume]:
 
 [InfoBase]: https://github.com/SouradeepSaha/infobase
 [Scribr]: https://github.com/SouradeepSaha/Scribr
