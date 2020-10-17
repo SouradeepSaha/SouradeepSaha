@@ -4,10 +4,9 @@
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>][Linkedin]
 [<img alt="MEDIUM" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>][Medium]
-[<img alt="DEV.TO" src="https://img.shields.io/badge/DEV%20-%23000000.svg?&style=for-the-badge&logo=DEV.TO&logoColor=white"/>][Dev]
+[<img alt="DEV.TO" src="https://img.shields.io/badge/DEV.TO%20-%23000000.svg?&style=for-the-badge&logo=DEV.TO&logoColor=white"/>][Dev]
 [<img alt="STACKOVERFLOW" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/>][StackOverflow]
 [<img alt="HACKERRANK" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>][hackerrank]
-
 
 ## I'm currently studying Computer Science at the University of Waterloo!
 - 🎤  If you're wondering how to pronounce my name, its "sir-deep"
