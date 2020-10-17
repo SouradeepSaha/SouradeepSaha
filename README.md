@@ -39,7 +39,7 @@
 <details>
   <summary>🤖 Hackathons I've attended</Summary>
   
-| Hackathon        | Role and Location | Notes                                              | Achievement                         | Github   |
+| Hackathon        | Role and Location | Project                                            | Achievement                         | Github   |
 |------------------|-------------------|----------------------------------------------------|-------------------------------------|----------|
 | ByteHacks 2020   | Hacker, Online    | Created InfoBase \- missile attack predictor       | Third place winner                  |[InfoBase]|
 | GarudaHacks 2020 | Hacker, Online    | Built Scribr \- meeting transcriber and summarizer | Best pre\-university hack runner up |[Scribr]  |
