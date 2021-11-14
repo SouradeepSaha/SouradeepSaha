@@ -36,6 +36,14 @@
 
 <br/><br/>
 <details>
+  <summary> 👨‍💻 Work Experience </Summary>
+  
+| Company          | Location          | Role                                               | Duration                            |
+|------------------|-------------------|----------------------------------------------------|-------------------------------------|
+| Paphus Solutions | Ottawa (Remote)   | Software Developer Intern                          | Sep 2021 - Dec 2021                 |
+</details>
+
+<details>
   <summary>🤖 Hackathons I've attended</Summary>
   
 | Hackathon        | Role and Location | Project                                            | Achievement                         | Github   |
@@ -44,8 +52,9 @@
 | GarudaHacks 2020 | Hacker, Online    | Built Scribr \- meeting transcriber and summarizer | Best pre\-university hack runner up |[Scribr]  |
 </details>
 
+
 <details>
-  <summary>:zap: Recent Github Activity</summary>
+  <summary> 💻 Recent Github Activity</summary>
   
   <!--START_SECTION:activity-->
 1. 💪 Opened PR [#55](https://github.com/BotLibre/BotLibre/pull/55) in [BotLibre/BotLibre](https://github.com/BotLibre/BotLibre)
