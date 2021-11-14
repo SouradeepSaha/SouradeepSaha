@@ -49,7 +49,6 @@
   
   <!--START_SECTION:activity-->
 1. 💪 Opened PR [#55](https://github.com/BotLibre/BotLibre/pull/55) in [BotLibre/BotLibre](https://github.com/BotLibre/BotLibre)
-  <!--END_SECTION:activity-->
 </details>
 
 <details>
