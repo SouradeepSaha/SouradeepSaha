@@ -36,14 +36,15 @@
 
 <br/><br/>
 <details>
-  <summary> 👨‍💻 Work Experience </Summary> <br/>
+  <summary> 👨‍💻 Work Experience </Summary><br/>  
+  
 | Company          | Location          | Role                                               | Duration                            |
 |------------------|-------------------|----------------------------------------------------|-------------------------------------|
 | Paphus Solutions | Ottawa (Remote)   | Software Developer Intern                          | Sep 2021 - Dec 2021                 |
 </details>
 
 <details>
-  <summary>🤖 Hackathons I've attended</Summary><br/>  
+  <summary>🤖 Hackathons I've attended</Summary> <br/>  
   
 | Hackathon        | Role and Location | Project                                            | Achievement                         | Github   |
 |------------------|-------------------|----------------------------------------------------|-------------------------------------|----------|
@@ -53,7 +54,7 @@
 
 
 <details>
-  <summary> 💻 Recent Github Activity</summary><br/>    
+  <summary> 💻 Recent Github Activity</summary> <br/>    
   
   <!--START_SECTION:activity-->
 1. 💪 Opened PR [#55](https://github.com/BotLibre/BotLibre/pull/55) in [BotLibre/BotLibre](https://github.com/BotLibre/BotLibre)
