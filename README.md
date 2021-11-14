@@ -44,7 +44,7 @@
 </details>
 
 <details>
-  <summary>🤖 Hackathons I've attended</Summary>
+  <summary>🤖 Hackathons I've attended</Summary>     
   
 | Hackathon        | Role and Location | Project                                            | Achievement                         | Github   |
 |------------------|-------------------|----------------------------------------------------|-------------------------------------|----------|
@@ -54,13 +54,13 @@
 
 
 <details>
-  <summary> 💻 Recent Github Activity</summary>
+  <summary> 💻 Recent Github Activity</summary>    
   
   <!--START_SECTION:activity-->
 1. 💪 Opened PR [#55](https://github.com/BotLibre/BotLibre/pull/55) in [BotLibre/BotLibre](https://github.com/BotLibre/BotLibre)
 </details>
 
-<details>
+<details>   
   <summary>:zap: Github Stats </summary>
   <img align="left" alt="Souradeep's Github Stats" src="https://github-readme-stats.vercel.app/api?username=SouradeepSaha&show_icons=true&hide_border=true&theme=solarized-dark" />
 </details>
