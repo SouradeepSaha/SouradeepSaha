@@ -9,14 +9,14 @@
 [<img alt="HACKERRANK" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>][hackerrank]
 
 ## I'm currently studying Computer Science at the University of Waterloo!
-- 🎤  If you're wondering how to pronounce my name, its "sir-deep"
-- 🔭  I’m currently obsessed with Neural Networks
-- 🏢  Looking for fall 2021 internship opportunities
-- 🥅  2020 Goals: Start contributing to Open Source projects
-- 🔗  You can check out my personal wesbite [here][website]
-- 📥  You can contact me at: [souradeep.saha@outlook.com][email]
-- 🗒️  Here's my [resume][resume]
-- 🇫🇷  Fun fact: I'm learning French so any tips welcome!
+- 🎤  &nbsp; If you're wondering how to pronounce my name, its "sir-deep"
+- 🔭  &nbsp; I’m currently obsessed with Neural Networks
+- 🏢  &nbsp; Currently looking for summer 2022 internship opportunities
+- 🥅  &nbsp; 2022 Goals: Start contributing to Open Source projects
+- 🔗  &nbsp; You can check out my personal wesbite [here][website]
+- 📥  &nbsp; You can contact me: [here][email]
+- 🗒️  &nbsp; Here's my [resume][resume]
+- 🇫🇷  &nbsp; Fun fact: I'm learning French so any tips welcome!
 
 ## Languages and Tools:
 
@@ -69,7 +69,7 @@
 [leetcode]: https://leetcode.com/souradeepsaha/
 
 [email]:mailto://souradeep.saha@outlook.com
-[resume]: https://github.com/SouradeepSaha
+[resume]: https://github.com/SouradeepSaha/professional/blob/main/resume.pdf
 
 [InfoBase]: https://github.com/SouradeepSaha/infobase
 [Scribr]: https://github.com/SouradeepSaha/Scribr
