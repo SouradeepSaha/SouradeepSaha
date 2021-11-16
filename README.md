@@ -63,7 +63,6 @@
 4. 💪 Opened PR [#52](https://github.com/BotLibre/BotLibre/pull/52) in [BotLibre/BotLibre](https://github.com/BotLibre/BotLibre)
 5. 💪 Opened PR [#51](https://github.com/BotLibre/BotLibre/pull/51) in [BotLibre/BotLibre](https://github.com/BotLibre/BotLibre)
 <!--END_SECTION:activity-->
-1. 💪 Opened PR [#55](https://github.com/BotLibre/BotLibre/pull/55) in [BotLibre/BotLibre](https://github.com/BotLibre/BotLibre)
 </details>
 
 <details>   
