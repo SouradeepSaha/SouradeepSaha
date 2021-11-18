@@ -57,11 +57,11 @@
   <summary> 💻 Recent Github Activity</summary> <br/>    
   
   <!--START_SECTION:activity-->
-1. 💪 Opened PR [#57](https://github.com/BotLibre/BotLibre/pull/57) in [BotLibre/BotLibre](https://github.com/BotLibre/BotLibre)
-2. 💪 Opened PR [#55](https://github.com/BotLibre/BotLibre/pull/55) in [BotLibre/BotLibre](https://github.com/BotLibre/BotLibre)
-3. 💪 Opened PR [#54](https://github.com/BotLibre/BotLibre/pull/54) in [BotLibre/BotLibre](https://github.com/BotLibre/BotLibre)
-4. ❗️ Opened issue [#53](https://github.com/BotLibre/BotLibre/issues/53) in [BotLibre/BotLibre](https://github.com/BotLibre/BotLibre)
-5. 💪 Opened PR [#52](https://github.com/BotLibre/BotLibre/pull/52) in [BotLibre/BotLibre](https://github.com/BotLibre/BotLibre)
+1. 💪 Opened PR [#58](https://github.com/BotLibre/BotLibre/pull/58) in [BotLibre/BotLibre](https://github.com/BotLibre/BotLibre)
+2. 💪 Opened PR [#57](https://github.com/BotLibre/BotLibre/pull/57) in [BotLibre/BotLibre](https://github.com/BotLibre/BotLibre)
+3. 💪 Opened PR [#55](https://github.com/BotLibre/BotLibre/pull/55) in [BotLibre/BotLibre](https://github.com/BotLibre/BotLibre)
+4. 💪 Opened PR [#54](https://github.com/BotLibre/BotLibre/pull/54) in [BotLibre/BotLibre](https://github.com/BotLibre/BotLibre)
+5. ❗️ Opened issue [#53](https://github.com/BotLibre/BotLibre/issues/53) in [BotLibre/BotLibre](https://github.com/BotLibre/BotLibre)
 <!--END_SECTION:activity-->
 </details>
 
