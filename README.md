@@ -40,6 +40,7 @@
   
 | Company          | Location          | Role                                               | Duration                            |
 |------------------|-------------------|----------------------------------------------------|-------------------------------------|
+| Instinet Inc.    | NYC (Remote)      | Site Reliability Engineering Inte                  | May 2022 - Aug 2022                 |
 | Paphus Solutions | Ottawa (Remote)   | Software Developer Intern                          | Sep 2021 - Dec 2021                 |
 </details>
 
