@@ -85,7 +85,7 @@
 [leetcode]: https://leetcode.com/souradeepsaha/
 
 [email]:mailto://souradeep.saha@outlook.com
-[resume]: https://github.com/SouradeepSaha/professional/blob/main/resume.pdf
+[resume]:https://github.com/SouradeepSaha/resume/blob/main/Souradeep_Saha_Resume_noNumber_Spring23.pdf
 
-[InfoBase]: https://github.com/SouradeepSaha/infobase
-[Scribr]: https://github.com/SouradeepSaha/Scribr
+[InfoBase]: https://devpost.com/software/infobase
+[Scribr]: https://devpost.com/software/scribr-7t9gpu
