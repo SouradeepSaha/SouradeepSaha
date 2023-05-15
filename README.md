@@ -11,7 +11,7 @@
 ## I'm currently studying Computer Science at the University of Waterloo!
 - 🎤  &nbsp; If you're wondering how to pronounce my name, its "sir-deep"
 - 🔭  &nbsp; I’m currently obsessed with Neural Networks
-- 🏢  &nbsp; Currently looking for summer 2022 internship opportunities
+- 🏢  &nbsp; Currently looking for fall 2023/summer 2024 internship opportunities
 - 🥅  &nbsp; 2022 Goals: Start contributing to Open Source projects
 - 🔗  &nbsp; You can check out my personal wesbite [here][website]
 - 📥  &nbsp; You can contact me: [here][email]
@@ -40,8 +40,9 @@
   
 | Company          | Location          | Role                                               | Duration                            |
 |------------------|-------------------|----------------------------------------------------|-------------------------------------|
-| Instinet Inc.    | NYC (Remote)      | Site Reliability Engineering Intern                | May 2022 - Aug 2022                 |
-| Paphus Solutions | Ottawa (Remote)   | Software Developer Intern                          | Sep 2021 - Dec 2021                 |
+| Smile CDR        | Toronto, Canada   | Software Engineer (Intern)                         | May 2023 - Aug 2023                 |
+| Instinet Inc.    | NYC, USA          | Software Engineer (Intern)                         | May 2022 - Aug 2022                 |
+| Paphus Solutions | Ottawa, Canada    | Software Developer (Intern)                        | Sep 2021 - Dec 2021                 |
 </details>
 
 <details>
