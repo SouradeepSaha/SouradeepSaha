@@ -40,6 +40,7 @@
   
 | Company          | Location          | Role                                               | Duration                            |
 |------------------|-------------------|----------------------------------------------------|-------------------------------------|
+| Nuvalence        | Troy, USA         | Software Engineer (Intern)                         | Sep 2023 - Dec 2023                 |
 | Smile CDR        | Toronto, Canada   | Software Engineer (Intern)                         | May 2023 - Aug 2023                 |
 | Instinet Inc.    | NYC, USA          | Software Engineer (Intern)                         | May 2022 - Aug 2022                 |
 | Paphus Solutions | Ottawa, Canada    | Software Developer (Intern)                        | Sep 2021 - Dec 2021                 |
